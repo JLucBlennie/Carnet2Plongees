@@ -1,2 +1,2 @@
 # Carnet2Plongees
-Carnet de Plongées
+Carnet de Plongées pour le stockage des plongées...
